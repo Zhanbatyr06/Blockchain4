@@ -35,7 +35,7 @@ Installation
 Clone the Repository:
 
 git clone https://github.com/Zhanbatyr06/Blockchain4.git
-cd assignment4blockprog
+cd Blockchain4
 
 Install Dependencies:
 
